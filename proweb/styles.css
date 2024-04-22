@@ -3,6 +3,13 @@ body {
     font-family: Arial, sans-serif;
     background-color: #f0f0f0;
 }
+.center {
+    text-align: center;
+}
+.content{
+    font-family: Brush Script MT, sans-serif;
+    background-color: #F0FFF0
+}
 
 h1 {
     color: #333;
